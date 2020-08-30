@@ -1,0 +1,39 @@
+h1 {
+    text-align: center;
+    color: #66BFBF;
+    text-decoration: underline grey;
+}
+h2{
+    color: grey;
+    text-align: left;
+    
+}
+h3{
+    color:red;
+    text-align: left;
+}
+strong{
+    color: #66BFBF;
+    text-align: left;
+}
+body{
+   background-color:#fbecec;
+}
+hr{
+    border-top-style: dotted;
+    border-left-style:none;
+    border-right-style: none;
+    border-bottom-style: none;
+    border-width: 8px;
+    border-color:grey;
+    width: 10%;
+    
+}
+
+a:hover{
+    background: cyan;
+}
+img:hover{
+    border-radius: 25%;
+    background: gold;
+}
